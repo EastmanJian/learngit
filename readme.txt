@@ -6,3 +6,5 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 no Fast forward
 try git stash
+/usr/bin/env
+
